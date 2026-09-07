@@ -1,0 +1,3 @@
+Rajan: 85
+Sneha: 90
+Amit: 78
