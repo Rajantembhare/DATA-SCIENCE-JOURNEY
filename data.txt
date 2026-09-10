@@ -1,0 +1,1 @@
+the data about the student marks:student name:1.Rajan tembhare:35,2.sahil dahare:25,3.abhijit zingare:02
