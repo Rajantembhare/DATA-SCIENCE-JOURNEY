@@ -1,0 +1,13 @@
+all my journey:
+1.basics of python
+2.main python
+3.file handeling
+4.oops
+5.pandas
+6.num.py
+7.data visualization
+8.sql
+9.statistics
+10.EDA
+11.machine learning
+12.advanced ML
