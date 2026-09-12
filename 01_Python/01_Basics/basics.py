@@ -12,3 +12,14 @@
  #oops
  # and all the things
 print("rajan tembhare")
+#data types
+1.int
+2.float
+3.numeric
+4.char
+#etc
+int a=25 #its a variable to store the data ,sometimes it acts a temporary memory to store a data for a time
+
+# python is the easiest language but it is not efficient than cpp ,but it is very imerging and future scope
+#we can make a logic to execute the task 
+#it is a good for me
