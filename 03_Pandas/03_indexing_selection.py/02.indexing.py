@@ -7,7 +7,7 @@ data = {
 }
 df = pd.DataFrame(data)
 
-print(df.iloc[0])       # First row
-print(df.iloc[1:3])     # Rows 2 to 3
-print(df.iloc[:, 1])    # Entire 2nd column (Age)
-print(df.iloc[0, 2])    # First row, 3rd column (City)
+print(df.iloc[0])      # First row
+print(df.iloc[1:3])      # Rows 2 to 3
+print(df.iloc[:, 1]) # Entire 2nd column (Age)
+print(df.iloc[0, 2])   # First row, 3rd column (City)
